@@ -13,6 +13,7 @@ body,
 small,
 .menu-link,
 .sub-menu-container .menu-item > .menu-link,
+.counter + h5,
 .wp-caption,
 .fbox-center.fbox-italic p,
 .skills li .progress-percent .counter,
@@ -65,7 +66,7 @@ h6 {
 
 .fbox-icon i,
 .fbox-icon img {
-  background-color: rgb(58, 178, 184) !important;
+  background-color: #0b4889 !important;
 }
 
 .section-clients {
@@ -104,8 +105,8 @@ h2,
 }
 
 .btn-primary {
-  background-color: #3ab2b8ff !important;
-  border-color: #3ab2b8ff !important;
+  background-color: #0b4889 !important;
+  border-color: #0b4889 !important;
 }
 
 .dark .owl-carousel .owl-dots .owl-dot,
