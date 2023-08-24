@@ -9,6 +9,13 @@
   z-index: 0;
 }
 
+#content {
+  background-image: url("https://websitedemos.net/diagnostics-lab-02/wp-content/uploads/sites/662/2020/08/diagnostic-lab-content-gradient-bg.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 body,
 small,
 .menu-link,
